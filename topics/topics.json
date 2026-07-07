@@ -1,0 +1,105 @@
+{
+  "_comment": "Canonical topic list for LearnHub. Synced from laiki/shared/topics.json. LAiKi normalizes free-text topics against this list before writing a contribution.",
+  "topics": [
+    {
+      "id": "terraform",
+      "name": "Terraform",
+      "synonyms": ["infrastructure-as-code", "iac", "iac mit terraform", "terraform basics", "tf", "hashicorp terraform"]
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "synonyms": ["microsoft azure", "azure cloud", "ms azure", "azure devops", "azure services"]
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "synonyms": ["amazon web services", "amazon aws", "aws cloud"]
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "synonyms": ["k8s", "container orchestration", "kubectl", "helm", "kustomize"]
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "synonyms": ["containers", "docker compose", "containerization", "dockerfile"]
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "synonyms": ["python3", "py", "python programming"]
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "synonyms": ["ts", "typed javascript", "tsc"]
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "synonyms": ["reactjs", "react.js", "react hooks", "next.js", "nextjs"]
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "synonyms": ["unit testing", "integration testing", "e2e testing", "test automation", "tdd", "bdd", "quality assurance", "qa"]
+    },
+    {
+      "id": "ci-cd",
+      "name": "CI/CD",
+      "synonyms": ["continuous integration", "continuous delivery", "continuous deployment", "github actions", "gitlab ci", "azure pipelines", "pipelines", "devops pipelines"]
+    },
+    {
+      "id": "agile",
+      "name": "Agile",
+      "synonyms": ["scrum", "kanban", "agile methods", "sprint", "retrospective", "agile coaching"]
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning",
+      "synonyms": ["ml", "deep learning", "neural networks", "scikit-learn", "pytorch", "tensorflow"]
+    },
+    {
+      "id": "llm-engineering",
+      "name": "LLM Engineering",
+      "synonyms": ["large language models", "prompt engineering", "rag", "retrieval augmented generation", "langchain", "llmops", "ai engineering", "generative ai", "genai"]
+    },
+    {
+      "id": "data-engineering",
+      "name": "Data Engineering",
+      "synonyms": ["data pipelines", "etl", "dbt", "spark", "airflow", "data warehouse"]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "synonyms": ["business english", "english language", "englisch", "english writing", "english speaking"]
+    },
+    {
+      "id": "japanese",
+      "name": "Japanese",
+      "synonyms": ["japonais", "japanisch", "nihongo", "日本語", "jlpt"]
+    },
+    {
+      "id": "presentation",
+      "name": "Presentation Skills",
+      "synonyms": ["public speaking", "slides", "storytelling", "präsentation", "pitching"]
+    },
+    {
+      "id": "coaching",
+      "name": "Coaching",
+      "synonyms": ["mentoring", "coaching skills", "feedback", "facilitation", "leadership coaching"]
+    },
+    {
+      "id": "system-design",
+      "name": "System Design",
+      "synonyms": ["architecture", "software architecture", "distributed systems", "scalability", "design patterns"]
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "synonyms": ["vpn", "vnet", "private endpoints", "dns", "tcp/ip", "load balancing", "network security"]
+    }
+  ]
+}
