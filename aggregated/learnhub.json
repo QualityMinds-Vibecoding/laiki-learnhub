@@ -1,4 +1,73 @@
 {
-  "generated_at": "2026-07-07T10:59:56.898Z",
-  "topics": []
+  "generated_at": "2026-07-07T11:42:43.948Z",
+  "topics": [
+    {
+      "id": "terraform",
+      "name": "Terraform",
+      "head_count": 1,
+      "resource_count": 6,
+      "timeline": [
+        {
+          "month": "2026-06",
+          "heads": 1
+        }
+      ],
+      "resources": [
+        {
+          "url": "https://developer.hashicorp.com/terraform/tutorials/azure-get-started",
+          "title": "Get Started: Azure",
+          "type": "course",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/developer/terraform/",
+          "title": "Terraform on Azure documentation",
+          "type": "article",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage",
+          "title": "Store Terraform state in Azure Storage",
+          "type": "article",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-terraform",
+          "title": "Create a private endpoint by using Terraform",
+          "type": "article",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        },
+        {
+          "url": "https://developer.hashicorp.com/terraform/tutorials/modules/module",
+          "title": "Terraform Modules overview",
+          "type": "article",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        },
+        {
+          "url": "https://azure.github.io/Azure-Verified-Modules/",
+          "title": "Azure Verified Modules",
+          "type": "tool",
+          "language": "en",
+          "approval_count": 1,
+          "first_seen": "2026-06-25",
+          "last_seen": "2026-06-25"
+        }
+      ]
+    }
+  ]
 }
